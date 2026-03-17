@@ -26,10 +26,6 @@ Styling: CSS Modules / Bootstrap
 
 Installation
 
-Clone the repository:
-
-git clone https://github.com/yourusername/NextTrip.git
-
 Navigate to the project folder:
 
 cd NextTrip
