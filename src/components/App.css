@@ -1,0 +1,14 @@
+
+.img-height{
+  height: 80vh;
+}
+
+@media only screen and (max-width: 600px) {
+  .img-height{
+    height: 50vh;
+  }
+  .mar{
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
